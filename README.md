@@ -8,15 +8,16 @@
 ### Read: Comprehensive Python guides and documentation on advanced OOP topics.
 ### Practice: Implement small projects or coding exercises to use these concepts. For example, create a class with class properties and methods, and implement a Singleton pattern.
 
-Step 2: Master Algorithms and Data Structures
-Key Data Structures:
-Stacks and Queues: Learn the LIFO (Last In First Out) and FIFO (First In First Out) principles.
-Linked Lists: Understand singly and doubly linked lists.
-Trees and Graphs: Study binary trees, binary search trees, AVL trees, and graph algorithms like Dijkstra’s and BFS/DFS.
-Action Plan:
+# Step 2: Master Algorithms and Data Structures
+## Key Data Structures:
+### 1. Stacks and Queues: Learn the LIFO (Last In First Out) and FIFO (First In First Out) principles.
+### 2. Linked Lists: Understand singly and doubly linked lists.
+### 3. Trees and Graphs: Study binary trees, binary search trees, AVL trees, and graph algorithms like Dijkstra’s and BFS/DFS.
 
-Read: Books like "Introduction to Algorithms" by Cormen et al. and online resources such as GeeksforGeeks or Coursera.
-Practice: Write code to implement these data structures from scratch, and solve related problems on platforms like LeetCode or HackerRank.
+## Action Plan:
+### Read: Books like "Introduction to Algorithms" by Cormen et al. and online resources such as GeeksforGeeks or Coursera.
+### Practice: Write code to implement these data structures from scratch, and solve related problems on platforms like LeetCode or HackerRank.
+
 Step 3: Learn Design Patterns
 Key Design Patterns:
 Creational Patterns: Singleton, Factory, Builder, Prototype.
