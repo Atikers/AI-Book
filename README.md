@@ -1,6 +1,7 @@
 # Step 1: Deepen My Understanding of Object-Oriented Programming in Python
 ## Advanced OOP Topics:
-### 1. Class Properties: Learn about class attributes, instance attributes, and how to use the @property decorator for creating managed attributes.
+### 1. Class Properties
+       Learn about class attributes, instance attributes, and how to use the @property decorator for creating managed attributes.
 ### 2. Class Methods and Static Methods: Understand the difference between instance methods, class methods (@classmethod), and static methods (@staticmethod).
 ### 3. Singleton Pattern: Study the Singleton design pattern, which restricts the instantiation of a class to one object.
 
